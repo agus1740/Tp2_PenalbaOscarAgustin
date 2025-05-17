@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Peñalba Oscar Agustin",
   "license": "ISC",
   "description": "Proyecto api rest con express",
   "dependencies": {
